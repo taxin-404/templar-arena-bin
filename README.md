@@ -52,7 +52,7 @@ Templar Arena is currently in early development (started March 2026). Features s
 - Bunny hopping & strafe mechanics
 - Dark fantasy setting
 
-Follow development updates on the [itch.io page](https://magic-squirrel-games.itch.io/templar-arena-pre-release-v01).
+Follow development updates on the [itch.io page](https://magic-squirrel-games.itch.io/templar-arena-pre-release-v01) or on the developer's [YouTube channel](https://www.youtube.com/@magicsquirrelgames).
 
 ---
 
